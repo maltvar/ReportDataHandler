@@ -1,0 +1,12 @@
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.csproj.AssemblyReference.cache
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.AssemblyInfoInputs.cache
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.AssemblyInfo.cs
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.csproj.CoreCompileInputs.cache
+D:\repositories\ReportDateHandler\GrpcService.Core\bin\Debug\net8.0\GrpcService.Core.deps.json
+D:\repositories\ReportDateHandler\GrpcService.Core\bin\Debug\net8.0\GrpcService.Core.dll
+D:\repositories\ReportDateHandler\GrpcService.Core\bin\Debug\net8.0\GrpcService.Core.pdb
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.dll
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\refint\GrpcService.Core.dll
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\GrpcService.Core.pdb
+D:\repositories\ReportDateHandler\GrpcService.Core\obj\Debug\net8.0\ref\GrpcService.Core.dll

@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcService.Api";
+
+service DateReader {
+	rpc ReadDate (DateRequest) returns (DateReply);
+}
+
+message DateRequest {
+	int32 day_of_month = 1;
+	int64 epoch_time = 2;
+	bool adjust = 3;
+}
+
+message DateReply {
+	int64 epoch_time = 1;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "fvSSLc/7qHhKs2mwurrwGYXrhla4aFGjQJ9sdWZyiyQ=",
+  "Source": "GrpcService.Api",
+  "BasePath": "_content/GrpcService.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
